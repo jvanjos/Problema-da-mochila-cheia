@@ -1,6 +1,8 @@
-﻿  stdafx.cpp
-  Problema da mochila booleana.cpp
+﻿  Problema da mochila booleana.cpp
+Problema da mochila booleana.cpp(116): warning C4018: '<': incompatibilidade de signed/unsigned
   Gerando código
-  All 357 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  1 of 412 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Finalizada a geração de código
   Problema da mochila booleana.vcxproj -> C:\Users\jvanj\source\repos\Problema da mochila booleana\Release\Problema da mochila booleana.exe
